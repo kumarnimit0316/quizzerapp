@@ -1,0 +1,5 @@
+html , body{
+    background-image: url(./images/download.jpg);
+    background-size: cover;
+    overflow: hidden;
+}

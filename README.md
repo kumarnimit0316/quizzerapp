@@ -1,0 +1,1 @@
+A front-end based react app, this is a quizzing website in  which users can give random quiz, get their score with explanation of each question.
